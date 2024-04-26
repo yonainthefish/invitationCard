@@ -1,26 +1,15 @@
-import { useEffect } from 'react';
-
-const { kakao } = window;
+import { Map, MapMarker } from 'react-kakao-maps-sdk';
 
 export default function KakaoMap() {
-  useEffect(() => {
-    const container = document.getElementById('map');
-    const options = {
-      center: new kakao.maps.LatLng(37.140029, 127.050354),
-      level: 3,
-    };
-    const map = new kakao.maps.Map(container, options);
-
-    const markerPosition = new kakao.maps.LatLng(37.140029, 127.050354);
-    const marker = new kakao.maps.Marker({
-      position: markerPosition,
-    });
-    marker.setMap(map);
-  }, []);
-
   return (
     <>
-      <div id="map" style={{ width: '100%', height: '200px' }}></div>
+      <Map
+        center={{ lat: 37.140029, lng: 127.050354 }}
+        style={{ width: '100%', height: '200px' }}
+        level={3}
+      >
+        <MapMarker position={{ lat: 37.140029, lng: 127.050354 }} />
+      </Map>
     </>
   );
 }
