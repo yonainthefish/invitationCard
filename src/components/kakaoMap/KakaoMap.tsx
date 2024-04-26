@@ -1,6 +1,7 @@
 import { Map, MapMarker } from 'react-kakao-maps-sdk';
+import KakaoShare from '../kakaoShare/KakaoShare';
 
-export default function KakaoMap() {
+export function KakaoMap() {
   return (
     <>
       <Map
@@ -10,6 +11,7 @@ export default function KakaoMap() {
       >
         <MapMarker position={{ lat: 37.140029, lng: 127.050354 }} />
       </Map>
+      <KakaoShare />
     </>
   );
 }

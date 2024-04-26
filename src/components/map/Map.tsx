@@ -1,5 +1,5 @@
 import { MapSection } from './MapStyle';
-import KakaoMap from '../kakaoMap/KakaoMap';
+import { KakaoMap } from '../kakaoMap/KakaoMap';
 
 export default function Map() {
   return (
