@@ -5,7 +5,7 @@ export default function GreatPage() {
   return (
     <GreatSection>
       <h1>
-        오상지방회 평신도 <br />
+        오산지방회 평신도 <br />
         <span>연합 바자회</span>
       </h1>
       <img src={MainImage} alt="메인이미지" />
