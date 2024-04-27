@@ -21,7 +21,7 @@ export default function KakaoShare() {
           title: '오산지방회 평신도 연합 바자회',
           description: '여러분을 초대합니다.',
           imageUrl:
-            'https://mud-kage.kakao.com/dn/NTmhS/btqfEUdFAUf/FjKzkZsnoeE4o19klTOVI1/openlink_640x640s.jpg',
+            'https://velog.velcdn.com/images/yona_inthe_fish/post/161c0921-1b7f-4ac1-bee0-bcf857665181/image.png',
           link: {
             mobileWebUrl: 'https://invitation-card-iota.vercel.app/',
             webUrl: 'https://invitation-card-iota.vercel.app/',
