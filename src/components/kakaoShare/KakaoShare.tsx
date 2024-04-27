@@ -11,7 +11,7 @@ export default function KakaoShare() {
       const kakao = window.Kakao;
 
       if (!kakao.isInitialized()) {
-        kakao.init('e79b288ebffab6c35ea1c3d7624e2f3a');
+        kakao.init('448a82d71015e74918afc3b540ff0d0e');
       }
 
       kakao.Share.createDefaultButton({
