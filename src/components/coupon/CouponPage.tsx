@@ -16,13 +16,10 @@ export default function CouponPage() {
           아래와 같이 개최합니다.
           <br />
           <br />
-          5월 가정의 달을 맞이하여 <br />
-          오산지방회에 속한 개체교회 목사님들과 성도님들이
+          많이 참석하여 주셔서 은혜로운 바자회가 <br />
+          될 수 있도록 <span>기도</span>와 <span>후원</span>부탁드리겠습니다.
           <br />
-          많이 참석하여 주셔서 은혜롭고 복된 예배와 <br />
-          친교의 시간과 풍성한 바자회가 될 수 있도록
-          <br />
-          <span>기도</span>와 <span>적극적인 후원 </span>부탁드리겠습니다.
+          
         </p>
         <p className="couponCoution">
           본 티켓은 <span>5월 18일 당일만</span>

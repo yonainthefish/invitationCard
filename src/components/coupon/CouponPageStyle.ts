@@ -11,11 +11,10 @@ const CouponSection = styled.section`
 
   .couponMent {
     position: absolute;
-    top: 90px;
+    top: 100px;
     left: 0px;
     width: 100%;
-    padding: 0 20px 30px;
-
+    padding: 0 20px 90px;
     color: var(--point-text-color);
     border-bottom: 0.5px solid var(--point-text-color);
   }
