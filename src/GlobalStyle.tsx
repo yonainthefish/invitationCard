@@ -19,6 +19,7 @@ const GlobalStyle = createGlobalStyle`
     --point-text-color:#5f9165;
     --point-color: #F17C9B;
     --white-900:#ffffff;
+    --gray-100:#6a6a6a;
     --gray-300:#494949;
     --gray-900:#1F1F1F;
     
