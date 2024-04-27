@@ -12,7 +12,7 @@ export default function GreatPage() {
       <ul>
         <li>
           <h3>일시</h3>
-          <p>2024.06.01(토) 11:00 ~ 18:00</p>
+          <p>2024.05.18(토) 11:00 ~ 18:00</p>
         </li>
         <li>
           <h3>장소</h3>
