@@ -16,7 +16,7 @@ const GlobalStyle = createGlobalStyle`
   }
   :root {
     --primary-color:#6FA744;
-    --point-text-color:#A2D0A7;
+    --point-text-color:#5f9165;
     --point-color: #F17C9B;
     --white-900:#ffffff;
     --gray-300:#494949;
