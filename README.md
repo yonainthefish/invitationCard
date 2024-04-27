@@ -1,30 +1,51 @@
-# React + TypeScript + Vite
+# 💌 지인 요청으로 제작한 모바일 초대장 입니다. 💌
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+<br>
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+|카카오톡 지도 핀마크 기능|카카오톡 공유하기 기능|Clipboard API 기능|
+|---|---|---|
+|![Group 65](https://github.com/yonainthefish/invitationCard/assets/124084624/fd2b9203-09e8-4b06-99c4-98590218b92c)|![Group 63](https://github.com/yonainthefish/invitationCard/assets/124084624/8b280fe9-2a89-40cf-a568-a69e5130eacf)|![Group 62](https://github.com/yonainthefish/invitationCard/assets/124084624/c3d6e7e4-02d6-4701-aa0f-e16d29995f11)|
 
-## Expanding the ESLint configuration
+<br>
+<br>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 1. 카카오톡 지도 핀마크 사용하기
 
-- Configure the top-level `parserOptions` property like this:
+<details>
+<summary> 코드 </summary>
+<div markdown="1">
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+안녕
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+</div>
+</details>
+
+<br>
+
+## 2. 카카오톡 공유하기 기능 사용하기
+
+<details>
+<summary> 코드 </summary>
+<div markdown="1">
+
+안녕
+
+</div>
+</details>
+
+<br>
+
+## 3. Clipboard API 사용하기 
+<details>
+<summary> 코드 </summary>
+<div markdown="1">
+
+안녕
+
+</div>
+</details>
+
+<br>
+
