@@ -30,7 +30,7 @@ export default function KakaoShare() {
 
         buttons: [
           {
-            title: '웹으로 이동',
+            title: '자세히 보기',
             link: {
               mobileWebUrl: 'https://invitation-card-iota.vercel.app/',
               webUrl: 'https://invitation-card-iota.vercel.app/',
