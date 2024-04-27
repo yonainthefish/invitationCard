@@ -10,9 +10,10 @@ export const KakaoShareBtn = styled.button`
   gap: 10px;
   border-radius: 20px;
   border: 1px solid var(--gray-900);
+  padding: 3px 0;
 
   img {
-    width: 40px;
+    width: 30px;
     aspect-ratio: 1/1;
   }
 
